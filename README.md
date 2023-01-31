@@ -2,7 +2,7 @@
 In this document, I will discuss two articles about ChatGPT, a currently trendy AI chatbot that is able generate live conversation with users from its database. I will present and discuss two different perspectives on the application of ChatGPT.
 
 ## Article 1
-In Atlantic's [ChatGPT Is a Tipping Point for AI](https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai). In the article of Harvard Business Review by Ethan Mollick, the author thought that ChatGPT can have great prospects for future applications in multiple fields including writing software programs and business strategies. 
+In Atlantic's [ChatGPT Is a Tipping Point for AI](https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai). In the article of Harvard Business Review by Ethan Mollick, the author thought that ChatGPT can have great prospects for future applications in multiple fields including writing software programs and business strategies. Specifically, the author believes that ChatGPT is suitable to deal with tasks that occasional failure is tolerable. With the support of its massive database, ChatGPT can generates text ouput much faster than human being.
 
 
 
